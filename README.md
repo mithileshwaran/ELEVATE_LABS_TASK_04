@@ -18,7 +18,7 @@ Configure Windows Firewall to block inbound traffic on a specific port (Port 23 
 - Opened **Windows Defender Firewall with Advanced Security**.
 - Checked existing **Inbound Rules**.
 - **Screenshot:**  
-  ![Inbound Rules](firewall_inbound_rules.png)
+  ![Inbound Rules](Windows_firewall_inbound_rules.png)
 
 ---
 
