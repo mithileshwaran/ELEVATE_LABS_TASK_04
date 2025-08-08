@@ -27,7 +27,7 @@ Configure Windows Firewall to block inbound traffic on a specific port (Port 23 
 - Applied to all profiles (Domain, Private, Public).
 - Named it **Block Telnet Port 23**.
 - **Screenshot:**  
-  ![Create Rule Port 23](firewall_create_rule_port23.png)
+  ![Create Rule Port 23](block_telnet_port.png)
 
 ---
 
